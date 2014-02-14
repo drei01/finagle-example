@@ -1,4 +1,4 @@
-finagle-example
+Finagle Thrift Example
 ===============
 
 An example Finagle Client / Server using Thrift based on https://github.com/twitter/finagle/tree/master/finagle-example
@@ -8,6 +8,7 @@ This project consists of a single server and client which send and receive a 'he
 ## Installation
 
 `` git checkout https://github.com/drei01/finagle-example.git ``
+`` cd finagle-example ``
 
 ## Usage
 
