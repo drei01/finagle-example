@@ -1,6 +1,9 @@
 *.class
 *.log
 
+#ignore generated classes for demonstration - you should REMOVE THIS LINE
+src/main/scala/com/twitter/finagle/example/thrift/
+
 # sbt specific
 dist/*
 target/
