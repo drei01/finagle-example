@@ -9,6 +9,10 @@ An example Finagle Client / Server based on https://github.com/twitter/finagle/t
 
 ## Usage
 
+For use with Intellij run:
+`` sbt gen-idea
+
+Then run:
 `` sbt compile
 `` sbt run
 
